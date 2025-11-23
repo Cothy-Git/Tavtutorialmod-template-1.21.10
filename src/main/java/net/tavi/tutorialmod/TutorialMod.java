@@ -2,6 +2,7 @@ package net.tavi.tutorialmod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.tavi.tutorialmod.TavBlocks.ModBlocks;
 import net.tavi.tutorialmod.TavItems.ModItemGroups;
 import net.tavi.tutorialmod.TavItems.ModItems;
 import org.slf4j.Logger;
@@ -15,6 +16,7 @@ public class TutorialMod implements ModInitializer {
 	public void onInitialize() {
         ModItemGroups.registeritemgroups();
         ModItems.registerModItems();
+        ModBlocks.registerModBlocks();
 		LOGGER.info("Hello Fabric world!");
 	}
 }

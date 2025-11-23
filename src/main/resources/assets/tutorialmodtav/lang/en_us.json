@@ -1,4 +1,7 @@
 {
   "item.tutorialmodtav.pink_garnet" : "Pink Garnet",
-  "item.tutorialmodtav.raw_pink_garnet" : "Raw Pink Garnet"
+  "item.tutorialmodtav.raw_pink_garnet" : "Raw Pink Garnet",
+  "item.group.tutorialmodtav.pink_garnet.items" : "Pink Garnet Items",
+  "item.tutorialmodtav.pink_garnet_block": "Pink Garnet Block",
+  "item.tutorialmodtav.raw_pink_garnet_block": "Raw Pink Garnet Block"
 }
